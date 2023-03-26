@@ -1,0 +1,67 @@
+<!DOCTYPE htmls>
+<html>
+<head>
+    <title>Blog de anime</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="dlog con css.css">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Blog de anime">
+    <meta name="robots" content="index">
+</head>
+<body>
+    <header>
+        <h1 id="titulo">Blog de anime</h1>
+    </header>
+    <section class="center" >
+        <article>
+            <h2>Post sobre Naruto y Nauto Shippūden</h2>
+            <img src="img/images.jpg"/>
+            <p>La obra narra la historia de un ninja huérfano adolescente llamado Naruto Uzumaki,
+                cuyos padres murieron en el ataque del Zorro Demonio de Nueve Colas, 
+                y quien aspira a convertirse en Hokage (líder de su aldea)
+                con el propósito de ser reconocido como alguien importante dentro de la aldea y entre sus compañeros.</p>
+            <p>La serie esta basada en el manga escrito por kishimoto en el cual fue lanzado 
+                n la shonen jump el 3 de octubre de 2002 y naruto Shippūden empeso el 15 de febrero de 2007 
+                y finaliso el 10 de noviembre de 2014 la compania encargada 
+                de ralizar la animacion por Pierrot y distribuido por Aniplex, el cual fue transmitido 
+                por la cadena televisiva TV Tokyo el 3 de octubre de 2002. La primera temporada duró 220 episodios, 
+                y poco después se creó una secuela.</p>
+            <h3>Naruto Shippūden</h3> 
+            <img src="img/descarga.jpg"/>   
+            <p>Naruto: Shippūden, cuya emisión empezó el 15 de febrero 2007.
+               Su finalizaciòn fue el 10 de noviembre de 2014, hay tambien que recalcar que Pierrot creo 
+               peliculas originales del anime y manga y posee la cantidad de 275 capítulos de relleno de los 
+               720 que componen el anime y teniendo una secuela del anime Boruto: Naruto Next Generations
+            </p>
+            <h4>Boruto: Naruto Next Generations</h4>
+            <img src="img/descarga (1).jpg"/>
+            <p>Consiste en el spin-off y secuela del manga Naruto de Masashi Kishimoto, su historia 
+            narra las aventuras y formación de Boruto Uzumaki, hijo de naruto Uzumaki y hinata Hyūga.</p>
+            <p>Boruto es aconpañado en sus aventuras por sus amigos de su infancia y eatra envuelto en,
+               algun que otro problema y mas por tener la actictu de su padre y lider de la aldea de la hoja,
+               quien es naruto uzumaki 
+            </p>
+            <P> La serie cuenta con su adaptación al anime, esta es dirigida por Hiroyuki Yamashita
+                y producida por el estudio Pierrot. 
+                Su transmisión inició a partir del 5 de abril de 2017 a través de TV Tokyo.
+            </p>
+            <p> Boruto como es en el caso de Naruto su anime y manga fueron bien resivido, por la
+                por la comunidad del anime y <b>escripto por Kodachi e ilustrado por Mikio Ikemoto</b>, 
+                Boruto: Naruto Next Generations fue publicado por primera vez
+                 el 9 de mayo de 2016 por la editorial japonesa Shueisha
+            </p>
+            <h4><p>Este es el final de mi post por este momento</p></h4>
+        </article>
+    </section>
+    <footer>
+        <section class="container">
+            <a href="#titulo">ir al comienso</a>
+            <br>
+            <a href="faccebook malikkhadimgadiagachavez">Contate conmigo aqui</a>
+        </section>
+        <p>copyrigh 2023</p>
+    </footer>
+</body>
+</html>
