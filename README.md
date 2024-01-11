@@ -1,2 +1,2 @@
-# para-mi-pagina
-Esto de desarrollo wed recion lo estoy realizando y bueno espero que se pueda mejorar
+Blog propio de anime 
+Este es un blog de anime que cree como mi primer trabajo propio 
